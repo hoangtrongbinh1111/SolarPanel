@@ -17,10 +17,10 @@ Decision Tree, Random Forest to evaluate
 - Command: python patternRecognition.py
 
 ***Note***
-- Your checkpoints will save in folder ./checkpoint
-- Your logs will save in folder ./logs
-- Your training history  will save in folder ./history
-- Your dataset will save in folder ./dataset/dataset12ClassKeras
+- Your checkpoints will be saved in folder ./checkpoint
+- Your logs will be saved in folder ./logs
+- Your training history will be saved in folder ./history
+- Your dataset will be saved in folder ./dataset/dataset12ClassKeras
 
 ***Author***
 - Hoang Trong Binh - CNTT1K53
